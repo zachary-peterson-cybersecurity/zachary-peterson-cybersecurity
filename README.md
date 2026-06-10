@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Zachary! </h1>
 
-<!--
-**zachary-peterson-cybersecurity/zachary-peterson-cybersecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Active Directory Home Lab]
+<h2> 📄Certifications </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 YouTube Videos</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: www.linkedin.com/in/zachary-peterson-cybersecurity
