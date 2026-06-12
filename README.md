@@ -3,7 +3,7 @@
 
 <h3>🐍 Python Projects</h3>
 
-<ul style="padding-left: 40px;">
+<ul style="padding-left: 40 px;">
   <li>
     <a href="https://github.com/zachary-peterson-cybersecurity/monty-hall-simulation">Monty Hall Simulation</a>
     - A Python simulation that compares staying vs switching in the Monty Hall probability problem.
@@ -12,7 +12,7 @@
 
 <h3>🛡️ Cybersecurity Projects</h3>
 
-<ul style="padding-left: 40px;">
+<ul style="padding-left: 40 px;">
   <li>Coming soon</li>
 </ul>
 <h3>🛡️ Cybersecurity Projects</h3>
