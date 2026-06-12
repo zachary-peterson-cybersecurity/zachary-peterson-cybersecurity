@@ -12,4 +12,4 @@
 <h2>📄Certifications </h2>
 <h2> 🤳 Connect with me:</h2>
 
-- [linkedin]: https://www.linkedin.com/in/zachary-peterson-cybersecurity
+- [LinkedIn]: (https://www.linkedin.com/in/zachary-peterson-cybersecurity/)
