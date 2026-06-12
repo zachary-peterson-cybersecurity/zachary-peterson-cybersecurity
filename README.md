@@ -11,4 +11,4 @@
 <h2>📄Certifications </h2>
 <h2> 🤳 Connect with me:</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/zachary-peterson-cybersecurity/)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/zachary-peterson-cybersecurity/)
