@@ -2,11 +2,12 @@
 <h2>🧩 Projects</h2>
 
 <h3>🐍 Python Projects</h3>
-  - [Monty Hall Simulation](https://github.com/zachary-peterson-cybersecurity/monty-hall-simulation) - A Python simulation that compares staying vs switching in the Monty Hall probability problem.
+
+- [Monty Hall Simulation](https://github.com/zachary-peterson-cybersecurity/monty-hall-simulation) - A Python simulation that compares staying vs switching in the Monty Hall probability problem.
 
 <h3>🛡️ Cybersecurity Projects</h3>
-  - Coming soon
 
+- Coming soon
 <h2>📄 Certifications</h2>
 
 <h2>📺 YouTube Videos</h2>
