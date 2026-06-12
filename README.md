@@ -7,7 +7,6 @@
   <li>
     <a href="https://github.com/zachary-peterson-cybersecurity/monty-hall-simulation">Monty Hall Simulation</a>
     - A Python simulation that compares staying vs switching in the Monty Hall probability problem.
-  <li>
 </ul>
 
 <h3>Cybersecurity Projects</h3>
