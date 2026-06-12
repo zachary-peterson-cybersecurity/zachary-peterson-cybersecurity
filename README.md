@@ -8,8 +8,7 @@
 <h3>🛡️ Cybersecurity Projects</h3>
 
 - Coming soon
-- 
 <h2>📄Certifications </h2>
 <h2> 🤳 Connect with me:</h2>
 
-- [LinkedIn]: (https://www.linkedin.com/in/zachary-peterson-cybersecurity/)
+- [LinkedIn](https://www.linkedin.com/in/zachary-peterson-cybersecurity/)
