@@ -13,7 +13,7 @@
 
 <h3>📄 Cybersecurity Policy & Documentation</h3>
 
-- NIST Incident Response Policy - Planned policy document based on NIST SP 800-61 guidance for cybersecurity incident handling.
+- [NIST Incident Response Policy](https://github.com/zachary-peterson-cybersecurity/nist-incident-response-policy) - Planned policy document based on NIST SP 800-61 guidance for cybersecurity incident handling.
 
 <h3>🧪 Hands-On Labs</h3>
 
