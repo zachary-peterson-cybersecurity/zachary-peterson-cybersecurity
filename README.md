@@ -19,6 +19,12 @@
 <h3>🧪 Hands-On Labs</h3>
 
 - [TryHackMe](https://tryhackme.com/p/ZacharyPeterson) - Completed introductory rooms in Metasploit, Burp Suite, and offensive security fundamentals as part of coursework.
+
+<h2>🎓 Education</h2>
+
+- Associate Degree in Cybersecurity - Austin Community College
+- Bachelor’s Degree in Cybersecurity - In Progress
+- Certificate in IT and Cybersecurity: Local Area Network Systems - Network Administrator Level 1
   
 <h2>📄 Certifications & Training</h2>
 
