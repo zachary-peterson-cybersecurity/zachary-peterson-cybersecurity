@@ -7,7 +7,7 @@
 
 <h3>🛡️ Cybersecurity Labs</h3>
 
-- - [Azure SIEM Lab with Microsoft Sentinel](https://github.com/zachary-peterson-cybersecurity/azure-siem-lab) - Planned cloud SIEM lab focused on log collection, KQL queries, detection rules, and security event analysis.
+- [Azure SIEM Lab with Microsoft Sentinel](https://github.com/zachary-peterson-cybersecurity/azure-siem-lab) - Planned cloud SIEM lab focused on log collection, KQL queries, detection rules, and security event analysis.
 - Nmap Network Scan Lab - Planned network scanning lab focused on host discovery, port scanning, service detection, and documentation.
 - Nessus Vulnerability Assessment - Planned vulnerability assessment lab focused on scanning, identifying findings, and writing a basic remediation report.
 
