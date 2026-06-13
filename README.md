@@ -15,7 +15,7 @@
 
 - NIST Incident Response Policy - Planned policy document based on NIST SP 800-61 guidance for cybersecurity incident handling.
 
-<h2>🧪 Hands-On Labs</h2>
+<h3>🧪 Hands-On Labs</h3>
 
 - [TryHackMe](https://tryhackme.com/p/ZacharyPeterson) - Completed introductory rooms in Metasploit, Burp Suite, and offensive security fundamentals as part of coursework.
   
