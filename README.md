@@ -11,7 +11,7 @@
 
 <h2>🧪 Hands-On Labs</h2>
 
-- TryHackMe - Completed introductory rooms in Metasploit, Burp Suite, and offensive security fundamentals as part of coursework.
+- [TryHackMe](https://tryhackme.com/p/ZacharyPeterson) - Completed introductory rooms in Metasploit, Burp Suite, and offensive security fundamentals as part of coursework.
   
 <h2>📄Certifications </h2>
 
