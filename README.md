@@ -23,7 +23,7 @@
 <h2>🎓 Education</h2>
 
 - Associate Degree in Cybersecurity - Austin Community College
-- Bachelor’s Degree in Cybersecurity - Expected August 2027
+- Bachelor’s Degree in Cybersecurity - Expected August 2027 - Austin Community College
 - Certificate in IT and Cybersecurity: Local Area Network Systems - Network Administrator Level 1 - Austin Community College
   
 <h2>📄 Certifications & Training</h2>
