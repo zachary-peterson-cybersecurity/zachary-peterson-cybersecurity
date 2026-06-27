@@ -4,8 +4,11 @@
 <h3>🛡️ Cybersecurity Labs</h3>
 
 - [Virtual Cybersecurity Lab Setup](https://github.com/zachary-peterson-cybersecurity/virtual-cybersecurity-lab) - Completed VMware-based lab environment for building attacker, target, and analysis virtual machines with future expansion into routing, segmentation, vulnerability scanning, and security monitoring.
+  
 - [Nmap Network Scan Lab](https://github.com/zachary-peterson-cybersecurity/nmap-network-scan-lab) - Planned network scanning lab focused on host discovery, port scanning, service detection, and documentation.
+  
 - [Nessus Vulnerability Assessment](https://github.com/zachary-peterson-cybersecurity/nessus-vulnerability-assessment) - Planned vulnerability assessment lab focused on scanning, identifying findings, and writing a basic remediation report.
+  
  - [Azure SIEM Lab with Microsoft Sentinel](https://github.com/zachary-peterson-cybersecurity/azure-siem-lab) - Planned cloud SIEM lab focused on log collection, KQL queries, detection rules, and security event analysis.
 
 <h3>📄 Cybersecurity Policy & Documentation</h3>
