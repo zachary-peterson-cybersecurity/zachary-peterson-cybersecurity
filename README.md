@@ -1,20 +1,20 @@
 <h1>Hi, I'm Zachary!</h1>
 <h2>🧩 Projects</h2>
 
-<h3>🐍 Python Projects</h3>
-
-- [Monty Hall Simulation](https://github.com/zachary-peterson-cybersecurity/monty-hall-simulation) - A Python simulation that compares staying vs switching in the Monty Hall probability problem.
-
 <h3>🛡️ Cybersecurity Labs</h3>
 
 - [Virtual Cybersecurity Lab Setup](https://github.com/zachary-peterson-cybersecurity/virtual-cybersecurity-lab) - Completed VMware-based lab environment for building attacker, target, and analysis virtual machines with future expansion into routing, segmentation, vulnerability scanning, and security monitoring.
-- [Azure SIEM Lab with Microsoft Sentinel](https://github.com/zachary-peterson-cybersecurity/azure-siem-lab) - Planned cloud SIEM lab focused on log collection, KQL queries, detection rules, and security event analysis.
 - [Nmap Network Scan Lab](https://github.com/zachary-peterson-cybersecurity/nmap-network-scan-lab) - Planned network scanning lab focused on host discovery, port scanning, service detection, and documentation.
 - [Nessus Vulnerability Assessment](https://github.com/zachary-peterson-cybersecurity/nessus-vulnerability-assessment) - Planned vulnerability assessment lab focused on scanning, identifying findings, and writing a basic remediation report.
+ - [Azure SIEM Lab with Microsoft Sentinel](https://github.com/zachary-peterson-cybersecurity/azure-siem-lab) - Planned cloud SIEM lab focused on log collection, KQL queries, detection rules, and security event analysis.
 
 <h3>📄 Cybersecurity Policy & Documentation</h3>
 
 - [NIST Incident Response Policy](https://github.com/zachary-peterson-cybersecurity/nist-incident-response-policy) - Cybersecurity policy writing sample based on NIST SP 800-61 Rev. 3, demonstrating incident response planning, policy structure, security governance, and documentation skills.
+
+<h3>🐍 Python Projects</h3>
+
+- [Monty Hall Simulation](https://github.com/zachary-peterson-cybersecurity/monty-hall-simulation) - A Python simulation that compares staying vs switching in the Monty Hall probability problem.
 
 <h3>🧪 Hands-On Labs</h3>
 
