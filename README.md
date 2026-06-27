@@ -4,6 +4,8 @@
 <h3>🛡️ Cybersecurity Labs</h3>
 
 - [Virtual Cybersecurity Lab Setup](https://github.com/zachary-peterson-cybersecurity/virtual-cybersecurity-lab) - Completed VMware-based lab environment for building attacker, target, and analysis virtual machines with future expansion into routing, segmentation, vulnerability scanning, and security monitoring.
+
+- [Active Directory Home Lab Setup](https://github.com/zachary-peterson-cybersecurity/active-directory-home-lab) - In-progress Windows Server and Windows client lab for practicing Active Directory, domain administration, users, groups, DNS, and Group Policy.
   
 - [Nmap Network Scan Lab](https://github.com/zachary-peterson-cybersecurity/nmap-network-scan-lab) - Planned network scanning lab focused on host discovery, port scanning, service detection, and documentation.
   
